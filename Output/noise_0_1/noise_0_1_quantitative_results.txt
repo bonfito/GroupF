@@ -1,0 +1,8 @@
+Quantitative results - UNet - noise_0_1
+Noise level: 0.1
+Best validation loss: 0.00012252
+Average MSE degraded input: 0.00134214
+Average MSE UNet output: 0.00012537
+Average PSNR degraded input: 29.5229 dB
+Average PSNR UNet output: 40.6081 dB
+PSNR improvement: 11.0852 dB

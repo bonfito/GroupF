@@ -1,0 +1,51 @@
+UNet summary results for all degradation levels
+============================================================
+
+Noise level: 0.005
+Quantitative results - UNet - noise_0_005
+Noise level: 0.005
+Best validation loss: 0.00003573
+Average MSE degraded input: 0.00054967
+Average MSE UNet output: 0.00003544
+Average PSNR degraded input: 33.4069 dB
+Average PSNR UNet output: 46.3368 dB
+PSNR improvement: 12.9299 dB
+
+------------------------------------------------------------
+
+Noise level: 0.01
+Quantitative results - UNet - noise_0_01
+Noise level: 0.01
+Best validation loss: 0.00004179
+Average MSE degraded input: 0.00055615
+Average MSE UNet output: 0.00004176
+Average PSNR degraded input: 33.3523 dB
+Average PSNR UNet output: 45.4308 dB
+PSNR improvement: 12.0785 dB
+
+------------------------------------------------------------
+
+Noise level: 0.05
+Quantitative results - UNet - noise_0_05
+Noise level: 0.05
+Best validation loss: 0.00008670
+Average MSE degraded input: 0.00075417
+Average MSE UNet output: 0.00008819
+Average PSNR degraded input: 31.9894 dB
+Average PSNR UNet output: 42.1553 dB
+PSNR improvement: 10.1659 dB
+
+------------------------------------------------------------
+
+Noise level: 0.1
+Quantitative results - UNet - noise_0_1
+Noise level: 0.1
+Best validation loss: 0.00012252
+Average MSE degraded input: 0.00134214
+Average MSE UNet output: 0.00012537
+Average PSNR degraded input: 29.5229 dB
+Average PSNR UNet output: 40.6081 dB
+PSNR improvement: 11.0852 dB
+
+------------------------------------------------------------
+
