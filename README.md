@@ -12,3 +12,4 @@ link: https://drive.google.com/drive/folders/1kD4-b51t0YTlxkohe3ziqCDNlEUEhcC1?u
 ### Check:
 - RGB or grayscale img?
 - Sigmoid: yes or no?
+- Add seed in data_degradation?
