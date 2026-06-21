@@ -3,7 +3,7 @@
 ## Unet
 
 ```text
-link: https://drive.google.com/drive/folders/1kD4-b51t0YTlxkohe3ziqCDNlEUEhcC1?usp=sharing
+https://drive.google.com/drive/folders/1kD4-b51t0YTlxkohe3ziqCDNlEUEhcC1?usp=sharing
 ```
 
 
