@@ -1,6 +1,6 @@
 # Model Weights
 
-## Unet
+## UNet
 
 ```text
 https://drive.google.com/drive/folders/1kD4-b51t0YTlxkohe3ziqCDNlEUEhcC1?usp=sharing
