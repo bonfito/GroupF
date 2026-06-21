@@ -27,13 +27,6 @@ This is a three-student group, so the repository covers four methods:
 3. **End-to-end** — a UNet reconstructor trained per noise level;
 4. **Generative** — DiffPIR, a plug-and-play diffusion prior adapted to this inverse problem.
 
-| Method | Family | Owner |
-|---|---|---|
-| FISTA + Wavelet | Variational | Jacopo Bonifazi |
-| Adaptive Weighted TV | Hybrid | Jacopo Bonifazi |
-| UNet | End-to-end | Shivam Kumar |
-| DiffPIR | Generative | Gaetano Muscarello |
-
 ## Shared data (important)
 
 For a fair comparison, all methods are evaluated on **identical inputs**: a single
@@ -48,6 +41,11 @@ set of pre-computed `.pt` files generated once with the **IPPy** library
   `clean`, `degraded` (tensors `[N,1,256,256]` in `[0,1]`), `source_paths`, `metadata`.
 - All final metrics are averaged over the **600 test images**, per noise level.
 
+## Dataset
+The notebooks `00_data_degradation.ipynb`, `01_fista_wavelet.ipynb`, `02_UNet.ipynb` and `04_adaptive_wtv.ipynb` use following dataset:
+```text
+https://drive.google.com/drive/folders/1RaNytO0PolkW90Y5GBX1eqH7Z3iIKqXJ?usp=sharing
+```
 ## Repository layout
 
 ```text
