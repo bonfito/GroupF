@@ -1,5 +1,4 @@
 # Group F
-
 Project repository for the Computational Imaging (2025–26, University of Bologna,
 proff. Loli Piccolomini & Evangelista) group assignment.
 
@@ -16,7 +15,8 @@ follows the official project specifications:
 
 "Deblur + Denoise" is a single task: deblurring with a controlled amount of added
 noise (`y = A x + e`), **not** two independent steps.
-
+## Presentation link
+https://canva.link/4xcfmijl1udqfwn
 ## Methods
 
 This is a three-student group, so the repository covers four methods:
