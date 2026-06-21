@@ -4,7 +4,12 @@ Gaetano Muscarello - Homework
  - HW2 : https://colab.research.google.com/drive/1qH9srseGD60xVkm6PgwUGNMryXtFFsbj?usp=drive_link
  - HW3 : https://drive.google.com/file/d/1QnXwlofEBj0XpJGfXi7ScGzT7ThWaEkR/view?usp=drive_link
 
-Bonifazi Jacopo - HW
+Bonifazi Jacopo - Homework
  - HW1 : https://github.com/bonfito/GroupF/tree/Fista-Wavelets/esercizi
  - HW2 : https://github.com/bonfito/GroupF/tree/Fista-Wavelets/esercizi
  - HW3 : https://github.com/bonfito/GroupF/tree/Fista-Wavelets/esercizi
+
+Shivam Kumar - Homework
+ - HW1 : https://github.com/bonfito/GroupF/tree/dev2/unet/homework/homework%20I
+ - HW2 : https://github.com/bonfito/GroupF/tree/dev2/unet/homework/homework%20II
+ - HW3 : https://github.com/bonfito/GroupF/tree/dev2/unet/homework/homework%20III
