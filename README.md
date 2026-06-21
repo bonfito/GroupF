@@ -42,7 +42,7 @@ set of pre-computed `.pt` files generated once with the **IPPy** library
 - All final metrics are averaged over the **600 test images**, per noise level.
 
 ## Dataset
-The notebooks `00_data_degradation.ipynb`, `01_fista_wavelet.ipynb`, `02_UNet.ipynb` and `04_adaptive_wtv.ipynb` use following dataset:
+The notebooks `00_data_degradation.ipynb`, `01_fista_wavelet.ipynb`, `02_UNet.ipynb`, `03_generativeDiffPir.ipynb`and `04_adaptive_wtv.ipynb` use following dataset:
 ```text
 https://drive.google.com/drive/folders/1RaNytO0PolkW90Y5GBX1eqH7Z3iIKqXJ?usp=sharing
 ```
