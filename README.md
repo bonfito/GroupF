@@ -15,8 +15,10 @@ follows the official project specifications:
 
 "Deblur + Denoise" is a single task: deblurring with a controlled amount of added
 noise (`y = A x + e`), **not** two independent steps.
-## Presentation link
+## Presentation
+```text
 https://canva.link/4xcfmijl1udqfwn
+```
 ## Methods
 
 This is a three-student group, so the repository covers four methods:
